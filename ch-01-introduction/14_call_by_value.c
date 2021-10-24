@@ -15,7 +15,7 @@ main()
 /* power: raise base to n-th power; n >=0; version 2 */
 int power(int base, int n)
 /* whatever is done to n inside power has no effect
-    on the original argument */
+   on the original argument */
 {
     int p;
 
